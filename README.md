@@ -1,1 +1,1 @@
-This repository offers guidance and support for users to plan and implement their Mpox research studies using ISARIC's Clinical Epidemiology Platform. Please visit [https://isaricresearch.github.io/Mpox-Response/](https://isaricresearch.github.io/Mpox-Response/) to get started.
+This repository offers guidance and support for users to plan and implement their Mpox research studies using ISARIC's Clinical Epidemiology Platform. Please visit [https://isaricresearch.github.io/Responses/Mpox](https://isaricresearch.github.io/Responses/Mpox) to get started.
